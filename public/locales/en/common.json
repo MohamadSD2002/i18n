@@ -1,0 +1,9 @@
+{
+    "HELLO":"Hello",
+    "CHANGE_LANGUAGE_TO":"Change the language to",
+    "PERSIAN":"Persian",
+    "ENGLISH":"English",
+    "ARABIC":"Arabic",
+    "BY":"By",
+    "MULTILINGUAL":"Multilingual with i18n package"
+}
